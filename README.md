@@ -1,6 +1,10 @@
 # Telecom_Churn_Case_Study
 
 
+### Download Data
+https://drive.google.com/file/d/1knc6Wwu18czTYs20g0BDPn5OH68amvCo/view?usp=sharing
+
+
 Problem Statement
  
 
